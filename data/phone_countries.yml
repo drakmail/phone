@@ -1040,6 +1040,7 @@
   :international_dialing_prefix: "00"
 "7": 
   :country_code: "7"
+  :local_number_format: "\\d{7}"
   :national_dialing_prefix: "8"
   :char_2_code: "8"
   :char_3_code: "RU"
