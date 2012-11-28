@@ -1042,6 +1042,7 @@
   :country_code: "7"
   :local_number_format: "\\d{7}"
   :national_dialing_prefix: "8"
+  :area_code: "\\d{3}"
   :char_2_code: "8"
   :char_3_code: "RU"
   :name: Russian Federation
