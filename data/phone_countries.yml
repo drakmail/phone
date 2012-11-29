@@ -1039,7 +1039,7 @@
   :name: Sao Tome and Principe
   :international_dialing_prefix: "00"
 "7": 
-  :country_code: "7"
+  :country_code: "[7,8]"
   :local_number_format: "\\d{7}"
   :national_dialing_prefix: "8"
   :area_code: "\\d{3}"
